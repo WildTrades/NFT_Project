@@ -3,8 +3,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/WildTrades/NFT_Airdrop_Platform.git
-cd NFT_Airdrop_Platform
+git clone https://github.com/WildTrades/NFT_Project.git
+cd NFT_Project
 ```
 
 ### 2. Install Dependencies
